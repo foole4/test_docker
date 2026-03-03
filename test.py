@@ -1,9 +1,7 @@
-#!/usr/bin/env python3
+print("🚀 ✅✅✅ Docker + GitHub = 100% OK ✅✅✅")
 import time
-print("🚀 ✅✅✅ ТЕСТ УСПЕШЕН ✅✅✅")
-print("📡 Docker + GitHub = 24/7 OK")
 i = 0
 while True:
     i += 1
-    print(f"⏰ {i} | LIVE | GitHub SYNC")
+    print(f"⏰ LIVE {i}s | Status: Up ∞")
     time.sleep(2)
