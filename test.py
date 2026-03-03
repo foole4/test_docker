@@ -1,7 +1,7 @@
-print("🚀 ✅✅✅ Docker + GitHub = 100% OK ✅✅✅")
+print("🎉 Docker 24/7 PRODUCTION READY!")
 import time
-i = 0
+i=0
 while True:
-    i += 1
-    print(f"⏰ LIVE {i}s | Status: Up ∞")
+    i+=1
+    print(f"Uptime: {i}s ✓")
     time.sleep(2)
